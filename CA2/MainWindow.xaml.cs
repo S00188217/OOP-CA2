@@ -23,6 +23,8 @@ namespace CA2
     public partial class MainWindow : Window
     {
 
+        // Hello
+        
         // Declaration of cost variable
 
         decimal total = 0;
